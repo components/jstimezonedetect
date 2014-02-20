@@ -10,6 +10,15 @@
        "tz",
        "date"
      ],
+     "ignore": [
+       "test",
+       ".hg*",
+       "LICENCE.txt",
+       "README.md",
+       "grunt.js",
+       "jstz.min.js",
+       "package.json"
+     ],
      "maintainers": [
          {
              "name": "Jon Nylander",
